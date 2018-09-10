@@ -1,9 +1,11 @@
 package main
 
 import (
-	"../src/operacoes"
+	"../src/condicionais"
+	// "../src/operacoes"
 )
 
 func main() {
-	operacoes.Show()
+	// operacoes.Show()
+	condicionais.Show()
 }
