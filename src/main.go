@@ -1,11 +1,13 @@
 package main
 
 import (
-	"../src/condicionais"
+	"../src/repeticoes"
+	// "../src/condicionais"
 	// "../src/operacoes"
 )
 
 func main() {
 	// operacoes.Show()
-	condicionais.Show()
+	// condicionais.Show()
+	repeticoes.Show()
 }

@@ -4,7 +4,7 @@ import "fmt"
 
 /*Show Mostra o resultado do número MAIOR QUE*/
 func Show() {
-	number := 20
+	numero := 20
 	n := 10
 
 	if n := 5; n > 0 {
@@ -16,7 +16,7 @@ func Show() {
 
 	fmt.Println(n)
 
-	switch number {
+	switch numero {
 	case 2:
 		fmt.Println("Número 2")
 	case 5:
