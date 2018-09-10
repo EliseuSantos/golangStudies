@@ -1,7 +1,8 @@
 package main
 
 import (
-	"../src/repeticoes"
+	"../src/funcoes"
+	// "../src/repeticoes"
 	// "../src/condicionais"
 	// "../src/operacoes"
 )
@@ -9,5 +10,6 @@ import (
 func main() {
 	// operacoes.Show()
 	// condicionais.Show()
-	repeticoes.Show()
+	// repeticoes.Show()
+	funcoes.Show()
 }
